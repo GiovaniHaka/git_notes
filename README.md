@@ -7,8 +7,8 @@
     git config --list
 
 ## Inicializar um Repositório
-    //inicializa o rep e observa as mudanças
-        git init 
+    // Inicializa o rep e observa as mudanças
+        **git init**
     // printa o que tem dentro
         ls -la
 
